@@ -4,9 +4,10 @@
 ## 🪟 Windows Tools
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
-|File Manager	      |[DoubleCommander](https://doublecmd.sourceforge.io/) - [MultiCommander](https://multicommander.com/) - [FreeCommander](https://freecommander.com/)|
+|File Manager	      |[DoubleCommander](https://doublecmd.sourceforge.io/) - [MultiCommander](https://multicommander.com/) - [FreeCommander](https://freecommander.com/) *|
 |File Finder	      |[Everything](https://www.voidtools.com/)       |
-|Password Manager	  |[KeePassXC](https://keepassxc.org/) - [Bitwarden](https://bitwarden.com/)|
+|Password Manager	  |[KeePassXC](https://keepassxc.org/) - [Bitwarden](https://bitwarden.com/) *|
+|System Tools      |[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - [NirSoft](https://www.nirsoft.net/) - [Ninite](https://ninite.com/) - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/)|
 |App Launcher	      |[Flow Launcher](https://www.flowlauncher.com/) - [WinLaunch](https://winlaunch.com/) |
 |Taskbar	          |[Windhawk](https://windhawk.net/)              |
 |Text/Code Editor   |[VSCode](https://code.visualstudio.com/) - [Notepad++](https://notepad-plus-plus.org/) - [Sublime Text](https://www.sublimetext.com/) *|
@@ -19,6 +20,7 @@
 |Status Bar	        |[Yasb](https://github.com/amnweb/yasb) *         |
 |Window Manager     |[GlazeWM](https://github.com/glzr-io/glazewm) *  |
 |System Fetch	      |[Fastfetch](https://github.com/fastfetch-cli/fastfetch) *|
+|Backup & File Sync |[Aomei Backuper](https://www.aomeitech.com/ab) - [FreeFileSync](https://freefilesync.org/) - [Syncthing](https://syncthing.net/)|
 
 ### 🌐 Online tools:
 |🛠️ Tool	          |🔗 App                                         |
@@ -30,7 +32,7 @@
 |🛠️ Tool	          |🔗 App                                         |
 |:---               |:---                                           |
 |API                |[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)|
-|Apperance          |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) * - [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) * - [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) *|
+|Appearance         |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) * - [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) * - [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) *|
 
 ### Other:
 |🛠️ Tool	         |🔗 App                                          |
@@ -39,3 +41,4 @@
 |Font	              |[JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/) *|  
 
 \* I don't use these tools, but maybe you like them.
+
