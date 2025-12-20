@@ -71,4 +71,4 @@ This are the modes I use:
 
 ![Windhawk Installed Mods](images/Windhawk-Installed-Mods.png)
 
-> With *Better file sizes in Explorer* installed, you can see the size of folders in Explorer.
+> With **Better file sizes in Explorer** installed and Everything precious configuration, you can see the size of folders in Explorer.
