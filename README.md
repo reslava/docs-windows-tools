@@ -1,18 +1,18 @@
-# 💯 Useful tools 💯
-(In progress...🚧) 
+># 💯 Useful tools 💯
 
+(In progress...🚧) 
 >## 🪟 Windows Tools
 |🛠️ Tool           |	🔗 App                                        |
 |:---               |:---                                           |
 |File Manager	      |[DoubleCommander](https://doublecmd.sourceforge.io/) - [MultiCommander](https://multicommander.com/) - [FreeCommander](https://freecommander.com/) *|
-|File Finder	      |[Everything](#everything)       |
+|File Finder	      |[Everything](https://www.voidtools.com/)       |
 |Password Manager	  |[KeePassXC](https://keepassxc.org/) - [Bitwarden](https://bitwarden.com/) *|
 |System Tools      |[PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) - [NirSoft](https://www.nirsoft.net/) - [Ninite](https://ninite.com/) - [Winaero Tweaker](https://winaerotweaker.com/) - [Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/)|
 |App Launcher	      |[Flow Launcher](https://www.flowlauncher.com/) - [WinLaunch](https://winlaunch.com/) |
-|Taskbar	          |[Windhawk](#windhawk)              |
+|Taskbar	          |[Windhawk](#windhawk)               |
 |Backup & File Sync |[Aomei Backupper](https://www.aomeitech.com/ab) - [FreeFileSync](https://freefilesync.org/) - [Syncthing](https://syncthing.net/)|
 |Browser	          |[Brave](https://brave.com/)                    |
-|Shell Prompt	      |[Oh My Posh](#oh-my-posh)            |
+|Shell Prompt	      |[Oh My Posh](https://ohmyposh.dev/)            |
 |Music Player	      |[MusicBee](https://getmusicbee.com/) - [Foobar2000](https://www.foobar2000.org/)|
 |Note Taking	      |[Notion](https://www.notion.com/) - [Notesnook](https://notesnook.com/) *|
 |Screen Recording	  |[OBS Studio](https://obsproject.com/)          |
@@ -45,8 +45,8 @@
 |Colorscheme	      |[Catppuccin Mocha](https://catppuccin.com/palette/) *           |
 |Font	              |[JetBrains Mono Nerd Font](https://www.jetbrains.com/lp/mono/) *|  
 
-\* I don't use these tools, but maybe you like them.
 
+---
 ---
 ### [Oh My Posh](https://ohmyposh.dev/)
 
@@ -58,20 +58,35 @@
 - [themes](https://ohmyposh.dev/docs/themes)
 - [segments](https://ohmyposh.dev/docs/segments)
 ---
-### [Everything](https://www.voidtools.com/) 
-
-#### Index Folder Size
-> To show the size of folders
-
-Menu > Tools > Indexes > (*check*) Index Folder Size
-
-![Everything Index Folder Size](images/Everything-Index-Folder-Size.png)
-
-### [Windhawk](https://windhawk.net/)
 ---
+
+### 📁 TIP: Show the size of folders
+
+To show the size of folders in **Everything, Explorer and Multicommander** follow the next steps:
+
+1. In Everything:
+
+    Menu > Tools > Indexes > (*check*) Index Folder Size
+
+    ![Everything Index Folder Size](images/Everything-Index-Folder-Size.png)
+
+1. In Windhawk:
+
+    > With **Better file sizes in Explorer** installed and Everything previous configuration, you can see the size of folders in Windows Explorer.
+1. In Multicommander:
+  
+    In Menu > Configuration > Explorer Panel Settings, in **Sorting and Columns** branch:
+    - Check "Auto displays folder sizes by retrieving the information from the Everything search tool"
+    - When calculate folder size is called manually, use 'Everything'...
+  ![Multicomander show folder size using Everything](images/Multicommander-Everything-show-folder-size.png)
+
+---
+---
+### [Windhawk](https://windhawk.net/)
+
 #### Installed Mods
 This are the modes I use:
 
 ![Windhawk Installed Mods](images/Windhawk-Installed-Mods.png)
 
-> With **Better file sizes in Explorer** installed and Everything precious configuration, you can see the size of folders in Explorer.
+\* I don't use these tools, but maybe you like them.             
