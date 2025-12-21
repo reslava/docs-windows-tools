@@ -11,7 +11,7 @@
 |App Launcher	      |[Flow Launcher](https://www.flowlauncher.com/) - [WinLaunch](https://winlaunch.com/) |
 |Taskbar	          |[Windhawk](#windhawk)               |
 |Backup & File Sync |[Aomei Backupper](https://www.aomeitech.com/ab) - [FreeFileSync](https://freefilesync.org/) - [Syncthing](https://syncthing.net/)|
-|Browser	          |[Brave](https://brave.com/)                    |
+|Browser	          |[Brave](https://brave.com/) - [LibreWolf](https://librewolf.net/)                    |
 |Shell Prompt	      |[Oh My Posh](https://ohmyposh.dev/)            |
 |Music Player	      |[MusicBee](https://getmusicbee.com/) - [Foobar2000](https://www.foobar2000.org/)|
 |Note Taking	      |[Notion](https://www.notion.com/) - [Notesnook](https://notesnook.com/) *|
