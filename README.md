@@ -60,9 +60,9 @@
 
 #### Pleiades. My custom theme For .NET and Python developers
 
-- [pleiades.omp.json](files\pleiades.omp.json)
+- [pleiades.omp.json](files/pleiades.omp.json)
 
-- [pleiades.omp.yaml](files\pleiades.omp.yaml)
+- [pleiades.omp.yaml](files/pleiades.omp.yaml)
 ---
 ---
 ### 🔎[Everything](https://www.voidtools.com/)
