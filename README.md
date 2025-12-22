@@ -57,6 +57,12 @@
 #### Customize
 - [themes](https://ohmyposh.dev/docs/themes)
 - [segments](https://ohmyposh.dev/docs/segments)
+
+#### Pleiades. My custom theme For .NET and Python developers
+
+- [pleiades.omp.json](files\pleiades.omp.json)
+
+- [pleiades.omp.yaml](files\pleiades.omp.yaml)
 ---
 ---
 ### 🔎[Everything](https://www.voidtools.com/)
@@ -91,4 +97,3 @@ This are the modes I use:
 
 \* I don't use these tools, but maybe you like them.             
 
-Test Features:
