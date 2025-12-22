@@ -38,6 +38,7 @@
 |Temp Mail          |[Temp Mail](https://temp-mail.org/en/)         |
 |Emojipedia         |[Emojipedia](https://emojipedia.org/)          |
 |Media Store        |[MediaFire](https://www.mediafire.com/) * - [cloudinary.com](https://cloudinary.com/) *|
+|Diagrams           |[Mermaid](https://mermaid.js.org/) - [Excalidraw](https://excalidraw.com/) |
 
 >## Other:
 |🛠️ Tool	         |🔗 App                                          |
@@ -55,14 +56,15 @@
 - [ohmyposh.dev Windows Installation](https://ohmyposh.dev/docs/installation/windows)
 
 #### Customize
-- [themes](https://ohmyposh.dev/docs/themes)
-- [segments](https://ohmyposh.dev/docs/segments)
+- [Themes](https://ohmyposh.dev/docs/themes)
+- [Segments](https://ohmyposh.dev/docs/segments)
+- [Nerd Fonts](https://www.nerdfonts.com/)
 
-#### Pleiades. My custom theme For .NET and Python developers
+#### RafEslava. My custom omp theme For .NET and Python developers
 
-- [pleiades.omp.json](files/pleiades.omp.json)
+- [rafeslava.omp.json](files/rafeslava.omp.json)
 
-- [pleiades.omp.yaml](files/pleiades.omp.yaml)
+- [rafeslava.omp.yaml](files/rafeslava.omp.yaml)
 ---
 ---
 ### 🔎[Everything](https://www.voidtools.com/)
