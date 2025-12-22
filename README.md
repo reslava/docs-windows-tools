@@ -12,7 +12,7 @@
 |Taskbar	          |[Windhawk](#windhawk)               |
 |Backup & File Sync |[Aomei Backupper](https://www.aomeitech.com/ab) - [FreeFileSync](https://freefilesync.org/) - [Syncthing](https://syncthing.net/)|
 |Browser	          |[Brave](https://brave.com/) - [LibreWolf](https://librewolf.net/)                    |
-|Terminal	      |[Oh My Posh](https://ohmyposh.dev/) - [zoxide](https://github.com/ajeetdsouza/zoxide) - [fzf](https://github.com/junegunn/fzf)            |
+|Terminal	      |[Oh My Posh](https://ohmyposh.dev/) - [Icons](https://github.com/devblackops/Terminal-Icons) - [zoxide](https://github.com/ajeetdsouza/zoxide) - [fzf](https://github.com/junegunn/fzf)            |
 |Music Player	      |[MusicBee](https://getmusicbee.com/) - [Foobar2000](https://www.foobar2000.org/)|
 |Note Taking	      |[Notion](https://www.notion.com/) - [Notesnook](https://notesnook.com/) *|
 |Screen Recording	  |[OBS Studio](https://obsproject.com/)          |
@@ -49,6 +49,13 @@
 
 ---
 ---
+### 🔤[Nerd Fonts](https://www.nerdfonts.com/)    
+- [Cascadia Code](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/CascadiaCode) (for code)    
+- [MesloLG](https://github.com/andreberg/Meslo-Font) (for terminal with icons)
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/) *
+- [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode) *
+---
+---
 ### ▶️[Oh My Posh](https://ohmyposh.dev/)
 
 #### Windows Installation
@@ -58,7 +65,7 @@
 #### Customize
 - [Themes](https://ohmyposh.dev/docs/themes)
 - [Segments](https://ohmyposh.dev/docs/segments)
-- [Nerd Fonts](https://www.nerdfonts.com/)
+- [Fonts](#nerd-fonts)
 
 #### RafEslava. My custom omp theme For .NET and Python developers
 
