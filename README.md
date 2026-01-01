@@ -15,6 +15,7 @@
 |Terminal	      |[Oh My Posh](https://ohmyposh.dev/) - [Icons](https://github.com/devblackops/Terminal-Icons) - [zoxide](https://github.com/ajeetdsouza/zoxide) - [fzf](https://github.com/junegunn/fzf) - [Fish Shell](tools/FishShell.md)       |
 |Music Player	      |[MusicBee](https://getmusicbee.com/) - [Foobar2000](https://www.foobar2000.org/)|
 |Note Taking	      |[Notion](https://www.notion.com/) - [Notesnook](https://notesnook.com/) *|
+|Project management| [codecks](https://www.codecks.io/)|
 |Screen Recording	  |[OBS Studio](https://obsproject.com/)          |
 |USB Drive Letter Manager|[USBDLM](https://www.uwe-sieber.de/usbdlm_e.html)|
 |Status Bar	        |[Yasb](https://github.com/amnweb/yasb) *         |
@@ -32,10 +33,23 @@
 |API                |[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)|
 |Appearance         |[Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc) * - [Catppuccin Icons](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons) * - [VSCode Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets) *|
 
+### 🔌Brave extensions:
+|🛠️ Tool	          |🔗 App                                         |
+|:---               |:---                                           |
+|Youtube            |[PocketTube channels](https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb) - [PocketTube playlists](https://chromewebstore.google.com/detail/pockettube-youtube-playli/bplnofkhjdphoihfkfcddikgmecfehdd)|
+|                   | |
+
+
 ### 🔌Visual Studio:
 |🛠️ Tool	         |🔗 App                                         |
 |:---               |:---                                            |
 |CPM                |[Central Package Management](setups/CPM.md)     |
+
+### 🔌Git:
+|🛠️ Tool	         |🔗 App - Convention                                         |
+|:---               |:---                                            |
+|Changelog       |[Keep a Changelog](https://keepachangelog.com)    |
+|Versioning      |[Semantic Versioning](https://semver.org)      |
 
 
 >## 🌐 Online tools:
@@ -44,7 +58,7 @@
 |Temp Mail          |[Temp Mail](https://temp-mail.org/en/)         |
 |Emojipedia         |[Emojipedia](https://emojipedia.org/)          |
 |Media Store        |[MediaFire](https://www.mediafire.com/) * - [cloudinary.com](https://cloudinary.com/) *|
-|Diagrams           |[Mermaid](https://mermaid.js.org/) - [Excalidraw](https://excalidraw.com/) |
+|Diagrams           |[Mermaid](https://mermaid.js.org/) - [Excalidraw](https://excalidraw.com/) * [tldraw](https://www.tldraw.com/) - [miro](https://miro.com/) *|
 
 >## Other:
 |🛠️ Tool	         |🔗 App                                          |
