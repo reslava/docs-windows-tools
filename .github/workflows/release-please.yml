@@ -18,7 +18,10 @@ jobs:
         with:
           release-type: simple            
           config-file: release-please-config.json
-          manifest-file: .release-please-manifest.json   
+          manifest-file: .release-please-manifest.json  
+          
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
       - name: Add emoji headers to CHANGELOG        
         run: |
