@@ -5,7 +5,7 @@
       "release-type": "simple",
       "changelog-path": "CHANGELOG.md",    
       "changelog-sections": [
-        {"type": "feat", "section": "✨ Features", "hidden": false},
+        {"type": "feat", "section": ">>Fe<<", "hidden": false},
         {"type": "fix", "section": "🐛 Bug Fixes", "hidden": false},
         {"type": "docs", "section": "📚 Documentation", "hidden": false},
         {"type": "style", "section": "💄 Styling", "hidden": false},
