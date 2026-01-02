@@ -6,7 +6,7 @@
       "changelog-path": "CHANGELOG.md",    
       "changelog-sections": [
         {"type": "feat", "section": "✨ Features"},
-        {"type": "fix", "section": "🐛 Bug Fixes"},
+        {"type": "fix", "section": "🐛 BEST Bug Fixes"},
         {"type": "docs", "section": "📚 Documentation"},
         {"type": "style", "section": "💄 Styling"},
         {"type": "refactor", "section": "♻️ Code Refactoring"},
