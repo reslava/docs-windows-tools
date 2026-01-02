@@ -124,3 +124,5 @@ This are the modes I use:
 \* I don't use these tools, but maybe you like them.             
 
 [Typegrow](https://typegrow.com/)
+
+*** Added CI release-please
