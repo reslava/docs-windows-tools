@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
+## 1.0.0 (2026-01-02)
+
+
+### Features
+
+* add initial user-facing feature ([4abb01d](https://github.com/reslava/WINDOWS.Tools/commit/4abb01dca9c09ecd1c545177eb50cd210ac4229d))
+
 ## [Unreleased]
 
 ## [1.0.0] - 2026-01-01
@@ -52,4 +59,3 @@ Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 - Added comprehensive README with categorized tool listings
 - Added setup guides for CPM and Fish Shell
 - Added configuration tips for Everything and Multicommander integration
-
