@@ -14,10 +14,6 @@ Follows [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 * add initial user-facing feature ([4abb01d](https://github.com/reslava/WINDOWS.Tools/commit/4abb01dca9c09ecd1c545177eb50cd210ac4229d))
 
-## [Unreleased]
-
-## [1.0.0] - 2026-01-01
-
 ### Added
 - Initial stable release of curated tools and apps collection
 - Windows Tools section with essential utilities:
