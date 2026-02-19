@@ -1,0 +1,35 @@
+name: Build and Deploy Docs
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs mkdocs-material mdsplit
+
+      - name: Split README into docs
+        run: |
+          rm -rf docs
+          mdsplit README.md --outdir docs --heading-level 2
+          mv docs/introduction.md docs/index.md || true
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
